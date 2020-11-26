@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "818623444738",
+    "firebase_url": "https://e-pal-c453d.firebaseio.com",
+    "project_id": "e-pal-c453d",
+    "storage_bucket": "e-pal-c453d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818623444738:android:1227a6fe5bfe8c5600341b",
+        "android_client_info": {
+          "package_name": "com.application.E_Pal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818623444738-c7g9jsaam0votgcvvfn1uivcn5ion2ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqWcA3RVAf9Biyk8aOYSD5eK0hGB7xc48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818623444738-c7g9jsaam0votgcvvfn1uivcn5ion2ck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "818623444738-5utehj1takfflheqvhm5sduli0nu9380.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.application.EPal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
